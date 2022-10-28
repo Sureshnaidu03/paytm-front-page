@@ -1,0 +1,272 @@
+*{
+	margin: 0%;
+}
+.navbar{
+	padding: 2%;
+}
+.navbar img{
+	vertical-align: middle;
+}
+.navbar a{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 2%;
+}
+.logo{
+	margin: 0% 12% 0% 3%;
+}
+#signin{
+	margin-left: 15%;
+	background-color: #00baf2;
+	color: white;
+	border-radius: 25px;
+	padding: 0.5%;
+	text-align: center;
+}
+.para{
+	background-color: whitesmoke;
+	font-size: 18px;
+	padding: 1%;
+}
+.sec2{
+	display: flex;
+	font-family: "poppins";
+	justify-content: space-between;
+	padding: 7% 0% 5% 8%;
+
+}
+.India{
+	font-size: 50px;
+}
+.recharge{
+	font-size: 18px;
+}
+.download-app{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	padding: 1.7%;
+	text-align: center;
+	width:50% ;
+	margin-top: 9%;
+	border-radius: 25px;
+}
+.download-app:hover{
+	background-color: white;
+	color: black;
+}
+.icon i{
+	margin-left: 4%;
+}
+.img1{
+	margin-bottom: 7%;
+}
+.sec3{
+	background-color: deepskyblue;
+	padding: 5% 10% 5% 10%;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.sec3 a{
+	text-decoration: none;
+	margin-top: 5%;
+	color: white;
+	text-align: left;
+	font-size: 15px;
+	padding: 1%;
+	word-spacing: 5px;
+}
+.sec3div{
+	display: flex;
+	justify-content: space-between;
+}
+.paytm{
+	color: white;
+	font-size: 35px;
+}
+.sec3div img{
+	margin-bottom: 9%;
+}
+.sec3 a:hover{
+	background-color: #00adf2;
+	border-radius: 10px;
+}
+.sec4{
+	background-color: #043e7d;
+	padding: 5% 13% 5% 10%;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.sec4 a{
+	text-decoration: none;
+	margin-top: 5%;
+	color: white;
+	padding: 1%;
+	text-align: left;
+	font-size: 15px;
+	word-spacing: 5px;
+}
+.sec4 a:hover{
+
+}
+.sec4div{
+	display: flex;
+	justify-content: space-between;
+}
+.payment{
+	color: white;
+	font-size: 35px;
+}
+.sec4div a:hover{
+	background-color: ;
+}
+.sec4div img{
+	margin-bottom: 9%;
+}
+.sec5{
+	background-color: rgba(239,239,239,0.6);
+	padding: 7% 11%;
+}
+.instruments{
+	font-size: 50px;
+	font-weight: bold;
+}
+.store{
+	font-size: 18px;
+	margin-bottom: 5%;
+	font-family: sans-serif;
+}
+.wallets{
+	display: flex;
+}
+.fastest{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-top: 7%;
+	margin-bottom: 5%;
+}
+.sec5div1{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 5%;
+	margin-top: 5%;
+	border-radius: 20px;
+}
+.sec5head{
+	font-size: 50px;
+	font-family: sans-serif;
+}
+#learn{
+	color: white;
+	background-color: #043e7d;
+	text-align: center;
+	border-radius: 25px;
+	width: 28%;
+	padding: 3.5%;
+	letter-spacing: 1.5px;
+	font-family: sans-serif;
+}
+#learn:hover{
+	background-color: deepskyblue;
+}
+.sec5div2{
+	display: flex;
+	padding: 2% 3%;
+}
+.div5{
+	background-color: white;
+	border-radius: 20px;
+	padding: 5% 2% 0% 5%;
+	margin: 5% 2%;
+}
+.sbicard{
+	margin-top: 10%;
+}
+.sec5div2 a{
+	text-decoration: none;
+	color: black;
+}
+.sec6{
+	padding: 5% 9% 5% 9%;
+}
+.sec6div1{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 9%;
+}
+.sec6head{
+	font-size: 50px;
+	font-family: sans-serif;
+	margin-left: 9%;
+}
+.sec7div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 3%;
+	margin-left: 0%;
+	margin-right: 0%;
+
+}
+.sec7{
+	background-image: url("images/back.PNG");
+	background-size: 100%;
+	background-attachment: scroll;
+	background-position: center;
+}
+.sec8{
+	padding: 5% 9% 5% 9%;
+}
+.sec8div1{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 5%;
+}
+.sec9div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 3%;
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+.sec9{
+	background-color: rgba(239,239,239,0.6);
+}
+.sec10{
+	background-color: white;
+	padding: 7% 11%;
+}
+.sec10div1{
+	display: flex;
+	justify-content: space-between;
+	background-color:  rgba(239,239,239,0.6);
+	padding: 9% 0% 5% 7%;
+	margin-top: 3%;
+	border-radius: 25px;
+}
+#more{
+	color: white;
+	background-color: #043e7d;
+	text-align: center;
+	border-radius: 25px;
+	width: 20%;
+	padding: 2.5%;
+	letter-spacing: 1.5px;
+	font-family: sans-serif;
+}
+#more:hover{
+	background-color: deepskyblue;
+}
+@media (max-width: 440px){
+	.navbar a{
+		font-size: 5px;
+	}
+	#learn{
+		width: 38%;
+	}
+}
